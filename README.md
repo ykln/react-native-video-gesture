@@ -1,8 +1,8 @@
 # 简单的视频播放器上层手势组件
 此组件见实现了手势识别功能，具体的根据手势而回调的功能为实现
 此组件支持：点击事件，左侧纵向滑动，右侧纵向滑动，全组建横向滑动等操作的识别。
+## 使用简介
 
-##使用简介
 `onClick`点击事件
 `onProgress`横向滑动中回调
 `onProgressEnd`横向滑动结束回调
@@ -52,5 +52,5 @@
 </VideoOperationComponet>
 ```
 支持自定义 有自定义需求的可参考`VideoOperationComponet`组件的实现
-##效果预览
+## 效果预览
 ![markdown](./doc/images/a1.gif "markdown")
